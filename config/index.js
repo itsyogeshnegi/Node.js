@@ -1,0 +1,1 @@
+const DB = "mongodb+srv://yogeshsinghnegi:yogeshnegi@13@cluster0.yj2tyqn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
